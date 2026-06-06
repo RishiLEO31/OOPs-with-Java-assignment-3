@@ -6,7 +6,6 @@
 // 1. Implement multilevel inheritance.
 // 2. Create a method to display product details.
 // 3. Demonstrate object instantiation and display the product hierarchy.
-// Note: Try to include exception handling code wherever possible.
 
 class Product {
     String productName;
