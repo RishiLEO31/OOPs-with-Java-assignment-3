@@ -3,7 +3,6 @@
 // 2. Define another interface Translator with a method translate(String text, String language).
 // 3. Implement a class AIAssistant that inherits both interfaces and provides implementations for speech synthesis and language translation.
 // Task: Implement the system and demonstrate how an AI Assistant can both speak and translate text.
-// Note: Try to include exception handling code wherever possible.
 
 interface Speaker {
     void speak(String text) throws Exception;
