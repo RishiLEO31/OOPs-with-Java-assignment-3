@@ -6,7 +6,6 @@
 // 1. Implement multilevel inheritance using the given classes.
 // 2. Create objects and demonstrate the working of constructors.
 // 3. Override a method in the child class to display details of LuxuryCar.
-// Note: Try to include exception handling code wherever possible.
 
 class Vehicle {
     String brand;
