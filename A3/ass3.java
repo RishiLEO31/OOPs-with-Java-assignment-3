@@ -5,7 +5,6 @@
 // b. PayPal: Charge 3% transaction fee.
 // Design an abstract class Payment and implement its subclasses (CreditCardPayment, PayPalPayment).
 // Write a Java program to process payments.
-// Note: Try to include exception handling code wherever possible.
 
 abstract class Payment {
     protected String transactionId;
