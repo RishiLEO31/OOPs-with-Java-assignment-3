@@ -4,7 +4,6 @@
 //  a. Attributes for name, stock, and a method purchase(int quantity) that checks availability and throws an exception if the stock is insufficient.
 // 3. Implement exception handling in a main method.
 // Task: Simulate an order placement where a user tries to buy a product that is out of stock.
-// Note: Try to include exception handling code wherever possible.
 
 class OutOfStockException extends Exception {
     public OutOfStockException(String message) {
