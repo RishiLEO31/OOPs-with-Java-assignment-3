@@ -3,7 +3,6 @@
 // 2. Define another interface CardPayment with a method payViaCard().
 // 3. Implement a class OnlinePayment that inherits both interfaces and provides functionality to process both UPI and Card payments.
 // Task: Implement the system and simulate payment processing for both UPI and card transactions.
-// Note: Try to include exception handling code wherever possible.
 
 interface UPIPayment {
     void payViaUPI(double amount) throws Exception;
