@@ -5,7 +5,6 @@
 // 4. Rectangle: Area = length * breadth
 // Define an abstract class Shape with methods calculateArea() and draw(), then implement subclasses (Circle, Rectangle). 
 // Write a Java program to display the areas and draw shapes.
-// Note: Try to include exception handling code wherever possible.
 
 import java.util.Scanner;
 abstract class Shape {
